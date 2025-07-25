@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302060139404",
+    "project_id": "sankskar-8ed20",
+    "storage_bucket": "sankskar-8ed20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302060139404:android:86f28ba4750a0621e25ca9",
+        "android_client_info": {
+          "package_name": "com.example.githubdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gEPTobsrhU7QO4YUf5hviaR0-1VxOTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
